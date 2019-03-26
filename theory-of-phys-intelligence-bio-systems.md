@@ -19,10 +19,10 @@ Alicea, B.
 
 
 #### Artificial Developmental Systems:
-Stone, R., Portegys, T., Mikhailovsky, G., and Alicea, B.	 
+Stone, R., Portegys, T., Mikhailovsky, G., and Alicea, B. 
 [Origins of the Embryo: self-organization through cybernetic regulation](https://www.researchgate.net/publication/316861647_Origins_of_the_Embryo_self-organization_through_cybernetic_regulation_Preprint). _BioSystems_, 173, 73-82.  
 
-Portegys, T., Pascualy, G., Gordon, R., McGrew, S., and Alicea, B.  
+Portegys, T., Pascualy, G., Gordon, R., McGrew, S., and Alicea, B. 
 [Morphozoic: cellular automata with nested neighborhoods as a metamorphic representation of morphogenesis](https://www.academia.edu/30534372/Morphozoic_Cellular_Automata_with_Nested_Neighborhoods_as_a_Metamorphic_Representation_of_Morphogenesis). In "Multi-Agent Based Simulations Applied to Biological and Environmental Systems".  
 
 
